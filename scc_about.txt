@@ -1,0 +1,15 @@
+SAP Cloud Connector 2.14.0.1
+     JavaWeb: 3.139.2
+     Tomcat: 8.5.69.0
+     Tunnel: 2.320.2
+     Netty: 4.1.68.Final
+     SCC JNI Lib: 1.2.5
+     JRE: 1.8.0_301 (SAP AG, C:\Program Files\Java\sapjvm_8\jre)
+     JVM: SAP Java Server VM (SAP AG, 8.1.081 11.0.12+000, Oct  7 2021 12:48:51 - 81_REL - optU - windows amd64 - 6 - bas2:330626 (mixed mode))
+     OS: Windows Server 2019 (10.0)
+     User: SYSTEM
+     Dir: C:\SAP\scc20
+     Installation: installer
+     HA Info: Master (HA active)
+     SAPUI5: 1.84.19
+     jQuery: 3.5.1
